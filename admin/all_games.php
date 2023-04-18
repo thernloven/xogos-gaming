@@ -2,10 +2,6 @@
 <?php include "includes/sidebar.php" ?>
 <?php include "includes/navbar.php"; ?>
 
-<?php 
-$kids_count = count_records(get_all_user_kids());
-?>
-
 <div class="content">
 <div class="row">
           <div class="col-md-12">
